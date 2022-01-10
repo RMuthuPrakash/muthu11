@@ -1,6 +1,10 @@
 package org.data;
 
 public class DataType1 {
+	private void muthu() {
+		System.out.println("muthu work in:Chennai");
+
+	}
 	public static void main(String[] args) {
 		int i=5;
 		String mail="m21@gmail.com";
@@ -9,6 +13,7 @@ public class DataType1 {
 		} else {
 			System.out.println("my mail");
 		}
+		
 
 		}
 		
